@@ -1,0 +1,13 @@
+{
+  "name": "roblox-claude-cloud-mcp",
+  "version": "2.0.0",
+  "description": "Backend e Servidor MCP Remoto na Nuvem (GitHub + Render) para Roblox Studio + Claude",
+  "type": "module",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
